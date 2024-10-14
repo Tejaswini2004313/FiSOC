@@ -41,6 +41,6 @@
     "vite": "^5.2.13"
   },
   "engines": {
-  "node": "18.x" // or your desired version
+  "node": "18.x" 
   }
 }
